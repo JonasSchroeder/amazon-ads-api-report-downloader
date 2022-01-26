@@ -6,6 +6,7 @@ Created on Sun Jan 23 12:07:36 2022
 
 @author: jonasschroeder
 GitHub: https://github.com/JonasSchroeder
+LinkedIn: https://www.linkedin.com/in/jonas-schröder-914a338a/
 
 Please refer to the amazon ads api doc for further campaign report types
 
